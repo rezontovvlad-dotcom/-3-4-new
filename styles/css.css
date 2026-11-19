@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, serif;
+}
+
+.main {
+    background-image: url("../images/bg.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.header {
+    padding: 32px 0 32px 0;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+.logo {
+    margin-right: 400px;
+}
+
+.menu {
+    display: inline-block;
+}
+
+.menu-item {
+    margin-right: 104px;
+    display: inline-block;
+    color: white;
+}
+
+.banner {
+    padding: 150px 0 200px 0;
+}
+
+.services {
+    background-color: white;
+    padding: 140px 0 140px 0;
+}
+
+.testimonials {
+    background: url("../images/bg2.png") no-repeat center / cover;
+    padding: 198px 0 0 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer {
+    background-position: center;
+}
+
+
+.training-menu {
+    font-size: 45px;
+    max-width: 500px;
+    color: rgb(255, 255, 255);
+}
+
+.p1 {
+    padding: 90px 0 100px 0;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    text-align: left;
+
+
+}
+
+.button-1 {
+    border: 1px solid white;
+    background: none;
+    padding: 20px 30px 20px 37px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.p-2 {
+    padding: 0;
+    font-size: 16px;
+    color: rgb(49, 27, 94);
+    line-height: 2.5;
+    text-align: left;
+    margin: auto;
+    vertical-align: bottom;
+}
+
+.traning-couche {
+    padding: 57px 0 40px 0;
+    color: rgb(139, 103, 214);
+    font-weight: bold;
+    line-height: 1.571;
+    text-align: center;
+    font-size: 35px;
+}
+
+.star {
+    padding-right: 13px;
+    vertical-align: bottom;
+}
+
+
+.menu-item a {
+    font-size: 16px;
+    color: rgb(237, 224, 248);
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.traning-couche-1 {
+    padding: 0 0 40px 0;
+    color: rgb(139, 103, 214);
+    font-weight: bold;
+    line-height: 1.571;
+    text-align: left;
+    font-size: 35px;
+}
+
+
+.testimonials-container {
+    max-width: 996px;
+    background: white;
+    border-radius: 20px;
+    margin: 0 auto 140px;
+
+
+}
+
+.p-3 {
+    font-size: 16px;
+    color: rgb(49, 27, 94);
+    line-height: 1.5;
+    text-align: center;
+    width: 555px;
+    margin: 0 auto;
+    padding: 0px 0 40px 0;
+}
+
+.pink {
+    border: 2px solid #b180e4;
+    color: #b180e4;
+    width: 228px;
+    margin-bottom: 40px;
+}
+
+
+#premi {
+    font-weight: bold;
+}
+
+.footer {
+    padding: 47px 0 46px 0;
+    border-top: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+
+li {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.traning-couche-1, .star {
+    vertical-align: middle;
+}
+
